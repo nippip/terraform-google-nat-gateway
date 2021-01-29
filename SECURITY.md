@@ -28,6 +28,7 @@ an email to **[security@provenance.io](mailto:security@provenance.io)**. The ema
 a short description of why it should be handled according to this security
 policy.
 
+If you have found an issue with the Cosmos SDK or Tendermint modules not found in this repo you can report them through the following site. https://tendermint.com/security/
 
 ## Disclosure Policy
 
