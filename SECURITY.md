@@ -53,7 +53,7 @@ I can set up a key via keybase and provide the link here.
 
 ## Comments on this Policy
 
-If you have suggestions on how this process could be improved please submit a pull request or email secuirty@figure.com
+If you have suggestions on how this process could be improved please submit a pull request or email **[security@provenance.io](mailto:security@provenance.io)**
 
 
 
