@@ -14,7 +14,7 @@ Please report security vulnerabilities to
 The Provenance team will send a response indicating the next steps in handling your
 report. After the initial reply to your report, the team will keep you informed
 of the progress towards a fix and full announcement, and may ask for additional
-information or guidance.  For critical problems, you may encrypt your report [see below](https://github.com/nippip/terraform-google-nat-gateway/blob/master/SECURITY.md#encryption-key-for-securityprovenanceio).
+information or guidance.  For critical problems, you may encrypt your report, ([see below])(https://github.com/nippip/terraform-google-nat-gateway/blob/master/SECURITY.md#encryption-key-for-securityprovenanceio).
 
 In addition, please include the following information along with your report:
 
