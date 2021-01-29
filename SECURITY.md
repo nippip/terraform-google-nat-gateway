@@ -8,13 +8,13 @@ The Provenance team and community take all security bugs in Provenance seriously
 Thank you for improving the security of Provenance. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
 
 Please report security vulnerabilities to
-**[security@provenance.io](mailto:security@provenance.io)**. Please avoid opening a public issue on the repository for security issues.
+**[security@provenance.io](mailto:security@provenance.io)**. *Please avoid opening a public issue on the repository for security issues.*
 
 
 The Provenance team will send a response indicating the next steps in handling your
 report. After the initial reply to your report, the team will keep you informed
 of the progress towards a fix and full announcement, and may ask for additional
-information or guidance.  For critical problems, you may encrypt your report (see below).
+information or guidance.  For critical problems, you may encrypt your report [see below](https://github.com/nippip/terraform-google-nat-gateway/blob/master/SECURITY.md#encryption-key-for-securityprovenanceio).
 
 In addition, please include the following information along with your report:
 
