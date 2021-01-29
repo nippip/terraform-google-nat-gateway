@@ -24,7 +24,7 @@ In addition, please include the following information along with your report:
 * Whether this vulnerability is public or known to third parties. If it is, please provide details.
 
 If you believe that an existing (public) issue is security-related, please send
-an email to `security@provenance.io`. The email should include the issue ID and
+an email to **[security@provenance.io](mailto:security@provenance.io)**. The email should include the issue ID and
 a short description of why it should be handled according to this security
 policy.
 
