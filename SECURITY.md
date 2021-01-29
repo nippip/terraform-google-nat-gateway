@@ -60,6 +60,7 @@ I can set up a key via keybase and provide the link here.
 If you have suggestions on how this process could be improved please submit a pull request or email secuirty@figure.com
 
 
+
 # QUESTIONS
 Security update policy: How should we communicate security issues and fixes to our project users?  Security mailing list, RSS feed, website with version and patch information?
 
