@@ -58,9 +58,12 @@ If you have suggestions on how this process could be improved please submit a pu
 
 
 # QUESTIONS
-Security update policy: How should we communicate security issues and fixes to our project users?  Security mailing list, RSS feed, website with version and patch information?
+* Security update policy: How should we communicate security issues and fixes to our project users?  Security mailing list, RSS feed, website with version and patch information?
 
-Security related configuration:  Best security practices that users should follow when configuring their BC.
+* Security related configuration:  Best security practices that users should follow when configuring their BC.
 
-Known security gaps & future enhancements:  What is our legal obligation here?
+* Known security gaps & future enhancements:  What is our legal obligation here?
     It’s important to inform your project users of the security controls that aren’t currently in place. Your users deserve to know the full story so they can make informed decisions about how they use your project.
+
+* VDP: Should we consider a Vulnerability Disclosure Program?
+https://www.bugcrowd.com/resources/glossary/vulnerability-disclosure-program-vdp/
