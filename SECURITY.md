@@ -36,7 +36,7 @@ When the security team receives a security bug report, they will assign it to a 
 * Confirm the problem and determine the affected versions.
 * Audit code to find any potential similar problems.
 * Prepare fixes for all releases still under maintenance. These fixes will be released as fast as possible to the project.
-* Patch releases are sent to * maybe some email list, or ???*.
+* Patch releases are sent to *maybe some email list, or ???.*
 
 
 #### Encryption key for `security@provenance.io`
