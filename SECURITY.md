@@ -42,8 +42,9 @@ When the security team receives a security bug report, they will assign it to a 
 
 #### Encryption key for `security@provenance.io`
 
-If your disclosure is extremely sensitive, you may choose to encrypt your
-report using the key below. Please only use this for critical security
+If your disclosure is sensitive, you may choose to encrypt your
+report using the key below. 
+Please only use this for critical security
 reports.
 
 ```
