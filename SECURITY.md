@@ -3,7 +3,7 @@
 
 ## Reporting Security Issues
 
-The Provenance team and community take all security bugs in Provenance seriously. 
+The Provenance team and community take all security vulnerabilities in Provenance seriously. 
 
 Thank you for improving the security of Provenance. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
 
