@@ -8,7 +8,7 @@ The Provenance team and community take all security bugs in Provenance seriously
 Thank you for improving the security of Provenance. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
 
 Please report security vulnerabilities to
-**[security@provenance.io](mailto:security@provenance.io)**. *Please avoid opening a public issue on the repository for security issues.*
+**[security@provenance.io](mailto:security@provenance.io)**.  *Please avoid opening a public issue on the repository for security issues.*
 
 
 The Provenance team will send a response indicating the next steps in handling your
